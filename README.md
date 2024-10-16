@@ -1,11 +1,8 @@
-# 3-2-HTML-Internal-Links <br>
+# 3-3-HTML-Tables
 
-## Video 
-[HTML Internal Links](https://youtu.be/c62_yTwex9E)<-- Make sure to watch this video first
+## Video
+[HTML Tables](https://youtu.be/UL3Gvq2zOLs) <-- Make sure to watch this video first
 
 ## Directions 
-### Step 1 - Add internal links <br>
-This is a long webpage describing kangaroos, and each section heading has an `id attribute`. Find out what those id attributes are, and then change the `href` attributes of the links at the top to point at the appropriate section.
-<br><br>
-### Step 2 - Add one more <br>
-There's one more <i>link at the bottom that should link back to the top</i>. Fix its `href` so that it does that.
+### Step #1 - Add rows of meals <br>
+This is a webpage to show the dinner menu for a restaurant. We've created the initial table with three columns for the meal, ingredients, and price. Now, add three rows of data to the table, one row for each meal.
